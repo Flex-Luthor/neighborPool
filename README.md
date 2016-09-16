@@ -26,4 +26,4 @@ It is built using Ionic Framework and Platform. Implementing Google Maps API to 
 2. Request or Accept A Ride
 3. Confirm Ride's End
 
-![Alt text](neighborPool/1.jpeg "Optional Title")
+![Alt text](/neighborPool/1.jpeg "Optional Title")
