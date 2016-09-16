@@ -1,25 +1,29 @@
-Ionic App Base
+${1:NeighborPool}
 =====================
 
-A starting project for Ionic that optionally supports using custom SCSS.
+NeighborPool is a mobile social networking app for carpooling within your local neighborhood. It allows users to connect with their neighbors in order to request and provide carpooling services. It aims at eliminating the constraints of the current carpooling model - waiting at a predetermined location during specific hours of the day. With NeighborPool, you can request or provide from anywhere in your neighborhood and at any time of the day.
 
-## Using this project
+##Engineering Team
+  -Garland Riley, Jr.
+  -Ralston Louie
+  -Luisa Zapata
 
-We recommend using the [Ionic CLI](https://github.com/driftyco/ionic-cli) to create new Ionic projects that are based on this project but use a ready-made starter template.
+## Technology
+It is built using Ionic Framework and Platform. Implementing Google Maps API to determine the user location.
 
-For example, to start a new Ionic project with the default tabs interface, make sure the `ionic` utility is installed:
+## Table of Contents
 
-```bash
-$ npm install -g ionic
-```
+1. [Usage](#Usage)
+1. [Requirements](#requirements)
+1. [Development](#development)
+    1. [Installing Dependencies](#installing-dependencies)
+    1. [Tasks](#tasks)
+1. [Team](#team)
+1. [Contributing](#contributing)
 
-Then run: 
+## Usage
+1. Sign Up
+2. Request or Accept A Ride
+3. Confirm Ride's End
 
-```bash
-$ ionic start myProject tabs
-```
-
-More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/getting-started) page and the [Ionic CLI](https://github.com/driftyco/ionic-cli) repo.
-
-## Issues
-Issues have been disabled on this repo, if you do find an issue or have a question consider posting it on the [Ionic Forum](http://forum.ionicframework.com/).  Or else if there is truly an error, follow our guidelines for [submitting an issue](http://ionicframework.com/submit-issue/) to the main Ionic repository.
+€™
