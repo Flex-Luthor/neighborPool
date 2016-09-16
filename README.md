@@ -26,3 +26,7 @@ It is built using Ionic Framework and Platform. Implementing Google Maps API to 
 2. Request or Accept A Ride
 3. Confirm Ride's End
 
+## Screenshots
+![Settings Window](https://github.com/Flex-Luthor/neighborPool/blob/master/1.jpeg)
+
+![Settings Window](https://github.com/Flex-Luthor/neighborPool/blob/master/2.jpeg)
